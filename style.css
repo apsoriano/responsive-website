@@ -266,7 +266,7 @@ body{
     
     @media (max-width: 400px) {
         .logo a {
-            font-size: 300px;
+            font-size: 90px;
         }
         li a {
             font-size: 15px;
