@@ -214,7 +214,7 @@ body{
         }
 
         .logo a{
-            font-size: 50px;
+            font-size: 60px;
             text-shadow: 4px 7px 0px rgb(0, 0, 0);
             text-align: center;
         }
@@ -255,7 +255,7 @@ body{
         #footer{
             background-color: rgba(0, 0, 0, 0);
             text-align: center;
-            margin-top: 80%;
+            margin-top: 100%;
             font-size: 20px;
             position: absolute sticky;
             top: 90px;
@@ -266,7 +266,7 @@ body{
     
     @media (max-width: 400px) {
         .logo a {
-            font-size: 50px;
+            font-size: 60px;
             text-align: center;
         }
     }
